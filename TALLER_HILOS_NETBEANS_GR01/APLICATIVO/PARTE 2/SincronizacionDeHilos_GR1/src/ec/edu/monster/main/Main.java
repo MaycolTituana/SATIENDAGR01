@@ -17,8 +17,9 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Controlador controlador = new Controlador();
-        controlador.ejecutarHilos();
+        Controlador controlador = new Controlador(); // Crea una instancia de Controlador
+        controlador.ejecutarHilos(); // Ejecuta el método ejecutarHilos() de la instancia de Controlador
     }
     
 }
+

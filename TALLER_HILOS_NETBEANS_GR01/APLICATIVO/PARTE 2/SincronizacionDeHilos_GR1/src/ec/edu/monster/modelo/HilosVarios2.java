@@ -20,14 +20,14 @@ public class HilosVarios2 extends Thread{
     
     public void run(){
         try {
-            hilo.join();
+            hilo.join(); // Espera a que el hilo especificado termine su ejecución antes de continuar
         } catch (InterruptedException ex) {
             Logger.getLogger(HilosVarios2.class.getName()).log(Level.SEVERE, null, ex);
         }
         
         Vista vista = new Vista();
-        vista.monstarHilos(getName());
+        vista.monstarHilos(getName()); // Muestra información sobre el hilo actual en la vista
     }
    
-    private Thread hilo;
+    private Thread hilo; // Variable que almacena el hilo especificado en el constructor
 }

@@ -14,12 +14,12 @@ import ec.edu.monster.modelo.HilosVarios2;
 public class Controlador {
 
     public void ejecutarHilos(){
-        HilosVarios hilo1 = new HilosVarios();
-        HilosVarios2 hilo2 = new HilosVarios2(hilo1);
+        HilosVarios hilo1 = new HilosVarios(); // Crea una instancia de HilosVarios
+        HilosVarios2 hilo2 = new HilosVarios2(hilo1); // Crea una instancia de HilosVarios2, pasando hilo1 como argumento
         
-        hilo2.start();
-        hilo1.start();
+        hilo2.start(); // Inicia la ejecución de hilo2
+        hilo1.start(); // Inicia la ejecución de hilo1
         
-        System.out.println("Terminadas las tareas");
+        System.out.println("Terminadas las tareas"); // Imprime un mensaje indicando que las tareas han terminado
     }
 }

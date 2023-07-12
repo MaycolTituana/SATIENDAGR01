@@ -13,12 +13,13 @@ import java.util.logging.Logger;
 public class Vista extends Thread{
     public void monstarHilos(String nombreHilo) {
         for (int i = 0; i < 8; i++) {
-            System.out.println("Ejecutando hilo " + nombreHilo);
+            System.out.println("Ejecutando hilo " + nombreHilo); // Imprime información sobre el hilo actual
             try {
-                Thread.sleep(400);
+                Thread.sleep(400); // Pausa la ejecución del hilo durante 400 milisegundos
             } catch (InterruptedException ex) {
                 Logger.getLogger(Vista.class.getName()).log(Level.SEVERE, null, ex);
             }
         }
     }
 }
+

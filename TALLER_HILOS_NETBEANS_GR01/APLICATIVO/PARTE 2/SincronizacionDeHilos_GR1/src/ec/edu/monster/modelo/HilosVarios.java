@@ -14,7 +14,8 @@ import java.util.logging.Logger;
  */
 public class HilosVarios extends Thread{
     public void run(){
-        Vista vista = new Vista();
-        vista.monstarHilos(getName());
+        Vista vista = new Vista(); // Crea una instancia de la clase Vista
+        vista.monstarHilos(getName()); // Invoca el método monstarHilos() de la instancia de Vista, pasando el nombre del hilo actual obtenido mediante getName()
     }
 }
+
