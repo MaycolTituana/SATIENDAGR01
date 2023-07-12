@@ -21,7 +21,8 @@ public class EjecucionTransferencias implements Runnable {
         this.deLaCuenta = deLaCuenta;
         this.cantidadMax = cantidadMax;
     }
-
+    //run() se encarga de realizar transferencias aleatorias de dinero 
+    //entre cuentas en el objeto banco en un bucle infinito
     @Override
     public void run() {
         try {
@@ -29,6 +30,7 @@ public class EjecucionTransferencias implements Runnable {
                 int paraLaCuenta = (int) (100 * Math.random());
                 double cantidad = cantidadMax * Math.random();
                 banco.transferencia(deLaCuenta, paraLaCuenta, cantidad);
+                //Se utiliza para introducir ese retraso aleatorio de milisegundos
                 Thread.sleep((int) Math.random() * 10);
             }
         } catch (InterruptedException ex) {

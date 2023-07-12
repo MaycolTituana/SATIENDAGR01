@@ -17,9 +17,13 @@ public class Sincronizacion_Hilos_Banco {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //Se crea una instancia del modelo banco.
+        //El constructor de la clase crea 100 cuentas con 2000 dolares.
         Banco b=new Banco();
+        //El for simula las transacciones a las cuentas creadas.
         for (int i = 0; i < 50; i++) {
             EjecucionTransferencias r=new EjecucionTransferencias(b,i,2000);
+            //Se crea una instancia de un hilo y se ejecuta.
             Thread t=new Thread(r);
             t.start();
         }
