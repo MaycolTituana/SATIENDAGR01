@@ -1,0 +1,45 @@
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\SEGUNDO_P\HILOS_DOTNET_2DO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\bin\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.exe
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\SEGUNDO_P\HILOS_DOTNET_2DO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\bin\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.deps.json
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\SEGUNDO_P\HILOS_DOTNET_2DO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\bin\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.runtimeconfig.json
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\SEGUNDO_P\HILOS_DOTNET_2DO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\bin\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\SEGUNDO_P\HILOS_DOTNET_2DO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\bin\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\SEGUNDO_P\HILOS_DOTNET_2DO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.csproj.AssemblyReference.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\SEGUNDO_P\HILOS_DOTNET_2DO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\SEGUNDO_P\HILOS_DOTNET_2DO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.AssemblyInfoInputs.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\SEGUNDO_P\HILOS_DOTNET_2DO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.AssemblyInfo.cs
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\SEGUNDO_P\HILOS_DOTNET_2DO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.csproj.CoreCompileInputs.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\SEGUNDO_P\HILOS_DOTNET_2DO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\SEGUNDO_P\HILOS_DOTNET_2DO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\refint\HilosVideo172_Dotnet_Grupo1.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\SEGUNDO_P\HILOS_DOTNET_2DO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\SEGUNDO_P\HILOS_DOTNET_2DO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.genruntimeconfig.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\SEGUNDO_P\HILOS_DOTNET_2DO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\ref\HilosVideo172_Dotnet_Grupo1.dll
+E:\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\bin\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.exe
+E:\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\bin\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.deps.json
+E:\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\bin\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.runtimeconfig.json
+E:\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\bin\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.dll
+E:\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\bin\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.pdb
+E:\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.csproj.AssemblyReference.cache
+E:\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.GeneratedMSBuildEditorConfig.editorconfig
+E:\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.AssemblyInfoInputs.cache
+E:\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.AssemblyInfo.cs
+E:\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.csproj.CoreCompileInputs.cache
+E:\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.dll
+E:\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\refint\HilosVideo172_Dotnet_Grupo1.dll
+E:\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.pdb
+E:\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.genruntimeconfig.cache
+E:\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\ref\HilosVideo172_Dotnet_Grupo1.dll
+C:\Users\DETPC\Downloads\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\bin\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.exe
+C:\Users\DETPC\Downloads\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\bin\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.deps.json
+C:\Users\DETPC\Downloads\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\bin\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.runtimeconfig.json
+C:\Users\DETPC\Downloads\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\bin\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.dll
+C:\Users\DETPC\Downloads\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\bin\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.pdb
+C:\Users\DETPC\Downloads\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.csproj.AssemblyReference.cache
+C:\Users\DETPC\Downloads\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DETPC\Downloads\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.AssemblyInfoInputs.cache
+C:\Users\DETPC\Downloads\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.AssemblyInfo.cs
+C:\Users\DETPC\Downloads\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.csproj.CoreCompileInputs.cache
+C:\Users\DETPC\Downloads\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.dll
+C:\Users\DETPC\Downloads\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\refint\HilosVideo172_Dotnet_Grupo1.dll
+C:\Users\DETPC\Downloads\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.pdb
+C:\Users\DETPC\Downloads\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\HilosVideo172_Dotnet_Grupo1.genruntimeconfig.cache
+C:\Users\DETPC\Downloads\HILOS_DOTNET_GRUPO1\SEGUNDO PROYECTO\APLICATIVO\HilosVideo172_Dotnet_Grupo1\obj\Debug\net6.0\ref\HilosVideo172_Dotnet_Grupo1.dll
